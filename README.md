@@ -1,9 +1,10 @@
 # Falcon-Insurance
 
 @author Prince Hossain\
-Falcon Insurance Application Project (Intro to Software Engineering Spring 2021)
+Falcon Insurance Application Project (Intro to Software Engineering Spring 2021)\
+![](Images/Falcon%20Insurance.PNG)
 
-How to run the application using Netbeans and mySQL.
+**How to run the application using Netbeans and mySQL.**
 
 Step 1: Install and run mySQL workbench.\
 You can follow this video exactly. https://www.youtube.com/watch?v=OM4aZJW_Ojs
