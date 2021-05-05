@@ -33,7 +33,7 @@ public class MyDBConnection {
         
         Class.forName("com.mysql.cj.jdbc.Driver");
         myConnection=DriverManager.getConnection(
-                "jdbc:mysql://localhost/Insurance","root", "root"
+                "jdbc:mysql://localhost:3306/insurance","root", "r00tpassword"
                 );
         }
         catch(Exception e){
